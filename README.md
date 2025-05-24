@@ -9,12 +9,12 @@ This project analyzes team flight data and jet fuel prices from the year 2101 to
 
 ## 📊 Project Overview
 
-### ✅ Goals
+### Goals
 1. Analyze team travel schedules to understand peak air traffic.
 2. Model and forecast daily jet fuel prices using time series techniques.
 3. Calculate projected flight costs for 2102 using the forecasted prices.
 
-### 📈 Tools & Technologies
+### Tools & Technologies
 - **Python**, **Pandas**, **NumPy**
 - **Statsmodels** (SARIMAX time series modeling)
 - **Matplotlib** for visualization
@@ -22,7 +22,7 @@ This project analyzes team flight data and jet fuel prices from the year 2101 to
 
 ## 🚀 How It Works
 
-### 🔍 Step-by-Step Workflow
+### Step-by-Step Workflow
 
 1. **Data Cleaning**:
    - Parsed and formatted datetime columns from flight data.
@@ -45,15 +45,15 @@ This project analyzes team flight data and jet fuel prices from the year 2101 to
 ---
 
 ## 📁 Project Structure
-├── team_flights.csv # Dataset of team flight schedules
-├── fuel_prices_2101.csv # Historical daily fuel prices for 2101
-├── notebook.ipynb # Main analysis notebook
-├── README.md # Project documentation
+- team_flights.csv # Dataset of team flight schedules
+- fuel_prices_2101.csv # Historical daily fuel prices for 2101
+- notebook.ipynb # Main analysis notebook
+- EADME.md # Project documentation
 
 
 ## 📌 Key Results
-- 📅 **Maximum Simultaneous Flights:** 19  
-- 💰 **Projected Fuel Spend for 2102:** ~ **$2.1 million** (based on SARIMAX predictions)
+- **Maximum Simultaneous Flights:** 19  
+- **Projected Fuel Spend for 2102:** ~ **$2.1 million** (based on SARIMAX predictions)
 
 
 ## 📚 Learnings & Highlights
