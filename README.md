@@ -1,4 +1,6 @@
 # ✈️ Team Flight Fuel Forecasting 2102 usin Time Series Analaysis 
+![team flight fuel forecasting image](./baseball_flights.png)
+
 
 This project analyzes team flight data and jet fuel prices from the year 2101 to support **logistics planning** and **budget forecasting** for 2102. Using real-world time series modeling and data manipulation techniques, we:
 
